@@ -85,6 +85,9 @@
 .radio_button {
   text-align:left;
 }
+.html_button {
+  text-align:center;
+}
 .table_cell {
 }
 .marker {
@@ -173,4 +176,6 @@
   font-style:normal;
 }
 .flow_shape {
+}
+.box_11 {
 }
